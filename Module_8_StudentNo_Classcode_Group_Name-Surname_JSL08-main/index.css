@@ -1,0 +1,27 @@
+/* Reset some default styles for the page */
+body, p {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+body {
+    background-image: url('manager.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Keeps the background fixed */
+}
+
+
+/* Style the h1 element */
+h1 {
+    background: white;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
+
