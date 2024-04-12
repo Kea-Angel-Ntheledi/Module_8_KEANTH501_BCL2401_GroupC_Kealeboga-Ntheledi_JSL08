@@ -24,6 +24,9 @@ The Bank Branch Management System aims to provide a reliable and efficient solut
 # Overall learning experience:
 This project enhanced my experience and knowledge in JavaScript object-oriented fetaures, particularly in handling string manipulation and validation tasks. It improved my understanding of regular expressions and debugging techniques.
 
+
+## Instructions on how to do the project:
+
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_8_StudentNo_Classcode_Group_Name-Surname_JSL08
 2. Code your solution.
