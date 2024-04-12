@@ -1,20 +1,20 @@
-## [JSL08] Submission: Singleton Pattern for Bank Branch Management
+# [JSL08] Submission: Singleton Pattern for Bank Branch Management
 
-# Project overview:
+## Project overview:
 On this project, i developed a bank branch management system to manage information about the bank branches. The system should ensure that only one instance of the branch information  exists throughout the application, following the Singleton design design patter.
 
 The Bank Branch Management System aims to provide a reliable and efficient solution for managing branch information using the Singleton design pattern. By ensuring that only one instance of the BankBranch class exists, the system maintains data consistency and improves application performance.
-# Elements included:
+## Elements included:
 -JavaScript objects
 -polymorphism
 -classes and prototypes
 -inheritance
 -encapsulation
-# Areas of mastery:
+## Areas of mastery:
 -Getting a better understanding in creating and manipulating JavaScript objects.
 -Getting to understand polymorphism and its apllication in object-oriented programming even though its difficult, but its good that i got to get some concepts and rules in.
 -The ability to utilize prototypes effectively for object creation and behaviour delegation.
-# Challenges:
+## Challenges:
 -Understanding the nuances of prototypal inheritance in JavaScript.
 -Implementing complex polymorphic behaviour in large scale projects.
 -Dealing with performance issues related to prototype chains and method lookups.
