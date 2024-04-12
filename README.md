@@ -1,4 +1,28 @@
-# [JSL08] Submission: Singleton Pattern for Bank Branch Management
+## [JSL08] Submission: Singleton Pattern for Bank Branch Management
+
+# Project overview:
+On this project, i developed a bank branch management system to manage information about the bank branches. The system should ensure that only one instance of the branch information  exists throughout the application, following the Singleton design design patter.
+
+The Bank Branch Management System aims to provide a reliable and efficient solution for managing branch information using the Singleton design pattern. By ensuring that only one instance of the BankBranch class exists, the system maintains data consistency and improves application performance.
+# Elements included:
+-JavaScript objects
+-polymorphism
+-classes and prototypes
+-inheritance
+-encapsulation
+# Areas of mastery:
+-Getting a better understanding in creating and manipulating JavaScript objects.
+-Getting to understand polymorphism and its apllication in object-oriented programming even though its difficult, but its good that i got to get some concepts and rules in.
+-The ability to utilize prototypes effectively for object creation and behaviour delegation.
+# Challenges:
+-Understanding the nuances of prototypal inheritance in JavaScript.
+-Implementing complex polymorphic behaviour in large scale projects.
+-Dealing with performance issues related to prototype chains and method lookups.
+# Areas of improvement:
+-Enhancing understanding of design patterns and their application in JavaScript projects.
+-Exploring alternative approaches to object-oriented programming, such as functional programming paradigms.
+# Overall learning experience:
+This project enhanced my experience and knowledge in JavaScript object-oriented fetaures, particularly in handling string manipulation and validation tasks. It improved my understanding of regular expressions and debugging techniques.
 
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_8_StudentNo_Classcode_Group_Name-Surname_JSL08
