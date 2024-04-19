@@ -18,10 +18,10 @@ The Bank Branch Management System aims to provide a reliable and efficient solut
 -Understanding the nuances of prototypal inheritance in JavaScript.
 -Implementing complex polymorphic behaviour in large scale projects.
 -Dealing with performance issues related to prototype chains and method lookups.
-# Areas of improvement:
+## Areas of improvement:
 -Enhancing understanding of design patterns and their application in JavaScript projects.
 -Exploring alternative approaches to object-oriented programming, such as functional programming paradigms.
-# Overall learning experience:
+## Overall learning experience:
 This project enhanced my experience and knowledge in JavaScript object-oriented fetaures, particularly in handling string manipulation and validation tasks. It improved my understanding of regular expressions and debugging techniques.
 
 
